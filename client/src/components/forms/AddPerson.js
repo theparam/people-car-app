@@ -48,7 +48,7 @@ const AddPerson = () => {
       layout='inline'
       onFinish={onFinish}
       size='large'
-      style={{ marginBottom: '40px', display: 'flex',justifyContent: 'center' }}
+      style={{ marginBottom: '40px' }}
     >
       <Form.Item
         name='firstName'

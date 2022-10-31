@@ -9,7 +9,7 @@ import Show from '../containers/Show'
 
 const getStyles = () => ({
   card: {
-    width: '500px',display:'flex',alignItems:'center',listStyleType: 'none', display: 'flex', alignItems: 'center'
+    width: '500px'
   }
 })
 

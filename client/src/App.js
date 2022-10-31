@@ -1,6 +1,6 @@
 import { ApolloClient, ApolloProvider, InMemoryCache } from '@apollo/client'
 import './App.css'
-import 'antd/dist/antd.less'
+import 'antd/dist/antd.css'
 import Home from './components/containers/Home'
 import Show from './components/containers/Show'
 import { Route, Routes, BrowserRouter } from 'react-router-dom'
